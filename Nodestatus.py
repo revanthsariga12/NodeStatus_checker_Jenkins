@@ -64,7 +64,6 @@ def generate_html_table(data):
         else:
             row = f"<tr><td>{node_name}</td><td style='background-color: red;'>{status}</td></tr>"
         table += row
-        #table += f"<tr><td>{node_name}</td><td>{status}</td></tr>"
     table += "</table>"
 
     greetings = f""" \n\n
