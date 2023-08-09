@@ -7,4 +7,4 @@ The python version should be python3.11 to run this code.
 > pip3 install python-jenkins <br>
 > pip3 install jenkinsapi
 2. Run that python file as "python3 Nodestatus.py".
-3. It will generate the output in a tabular format and send to the reciever mail.
+3. It will generate the output in a tabular format with Nodename, Status as columnsand send to the reciever mail.
