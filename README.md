@@ -1,6 +1,5 @@
 # NodeStatus_checker_Jenkins
-This Project is used to check the Node status of the given nodes whether it is Online or not in the Jenkins Server and automatically send an email.
-
+This Project is used to check the Node status of the given nodes whether it is Online or not in the Jenkins Server and it will automatically trigger an email to the reciever.
 The python version should be python3.11 to run this code.
 
 1. First we need to install two libraries:
